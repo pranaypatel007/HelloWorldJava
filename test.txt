@@ -1,0 +1,10 @@
+ Volume in drive D is PRIVATE
+ Volume Serial Number is 24E0-ED7E
+
+ Directory of D:\HelloWorldJava
+
+Wed  15-Feb-2017  15:45    <DIR>          .
+Wed  15-Feb-2017  15:45    <DIR>          ..
+Wed  15-Feb-2017  15:45                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)   4,887,384,064 bytes free
